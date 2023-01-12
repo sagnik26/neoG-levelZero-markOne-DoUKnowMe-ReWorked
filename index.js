@@ -5,7 +5,7 @@ var score = 0;
 // data of high score
 var highScores = [
   {
-    name: "Tanay",
+    name: "Debajit",
     score: 3,
   },
 
